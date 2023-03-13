@@ -1,7 +1,6 @@
 Hello, my name is Aftab and I am a Senior PHP Web Engineer with 10 years of experience in custom web application & system development. I specialize in creating user-friendly and customized web solutions for clients across different industries. In this overview, I will highlight my expertise, skills, and achievements
 
 ● 10 years of experience in custom web application & system development.
-
 ● Skills include HTML, CSS, JavaScript, PHP, MySQL, and more.
 ● Expertise in Laravel, Codeigniter, and AWS.
 ● Specialized in Admin System, CRM, ERP, and MIS development.
