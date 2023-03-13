@@ -45,11 +45,9 @@ From past 10 years I've worked with a variety of clients across different indust
 🏅 5 Stars Rating in All Projects <br>
 ✍ Satisfiable Client's Feedbacks & Recommendation <br>
 💯 100% Client Satisfaction <br>
-❇️ 46+ Job Completed Successfully <br>
 ✅ 10 Years of Experience in Development <br> <br>
 🎯 Maintenance & Support <br>
 🚀 1 hour Response Time <br>
-😄 46+ Happy Customers 
 
 Experienced Software Engineer & Architect | Senior PHP Web Engineer | Admin & ERP System Specialist with 10 years of extensive experience, developed successful large-scale corporate web applications & web solutions from scratch. Result Oriented, Best Practices. Expert in Custom / Core PHP, MySQL, RESTful APIs, Admin System, ERP Systems. Back-end PHP programming specialist.
 
