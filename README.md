@@ -43,17 +43,6 @@ From past 10 years I've worked with a variety of clients across different indust
  - I want to help you to build your project with high quality, focused on details, and exceed your expectations..
  - Client satisfaction with great quality is my highest priority and I always strive to exceed expectations..
 
-🥇 Top Rated Upwork Freelancer <br>
-💯 100 % Job Success Score <br>
-🏅 5 Stars Rating in All Projects <br>
-✍ Satisfiable Client's Feedbacks & Recommendation <br>
-💯 100% Client Satisfaction <br>
-✅ 10 Years of Experience in Development <br> <br>
-🎯 Maintenance & Support <br>
-🚀 1 hour Response Time <br>
-
-Experienced Software Engineer & Architect | Senior PHP Web Engineer | Admin & ERP System Specialist with 10 years of extensive experience, developed successful large-scale corporate web applications & web solutions from scratch. Result Oriented, Best Practices. Expert in Custom / Core PHP, MySQL, RESTful APIs, Admin System, ERP Systems. Back-end PHP programming specialist.
-
 ### The areas of my technological expertise include: <br>
 👉 PHP5, PHP7, PHP8 (Core & OOP) <br>
 👉 MYSQL, MariaDB & SQL <br>
@@ -88,6 +77,17 @@ Experienced Software Engineer & Architect | Senior PHP Web Engineer | Admin & ER
 ✔️ Ngnix & Apache Web Server <br>
 ✔️ Linux, Ubuntu <br>
 ✔️ Adobe Photoshop
+
+🥇 Top Rated Upwork Freelancer <br>
+💯 100 % Job Success Score <br>
+🏅 5 Stars Rating in All Projects <br>
+✍ Satisfiable Client's Feedbacks & Recommendation <br>
+💯 100% Client Satisfaction <br>
+✅ 10 Years of Experience in Development <br> <br>
+🎯 Maintenance & Support <br>
+🚀 1 hour Response Time <br>
+
+Experienced Software Engineer & Architect | Senior PHP Web Engineer | Admin & ERP System Specialist with 10 years of extensive experience, developed successful large-scale corporate web applications & web solutions from scratch. Result Oriented, Best Practices. Expert in Custom / Core PHP, MySQL, RESTful APIs, Admin System, ERP Systems. Back-end PHP programming specialist.
 
 ### Related Job Titles<br>
 PHP Developer, Web Developer, Software Developer, PHP Programmer, PHP Coder, PHP Back-end Expert, School System Expert.
