@@ -54,7 +54,7 @@ From past 10 years I've worked with a variety of clients across different indust
 
 Experienced Software Engineer & Architect | Senior PHP Web Engineer | Admin & ERP System Specialist with 10 years of extensive experience, developed successful large-scale corporate web applications & web solutions from scratch. Result Oriented, Best Practices. Expert in Custom / Core PHP, MySQL, RESTful APIs, Admin System, ERP Systems. Back-end PHP programming specialist.
 
-## The areas of my technological expertise include: <br>
+### The areas of my technological expertise include: <br>
 👉 PHP5, PHP7, PHP8 (Core & OOP) <br>
 👉 MYSQL, MariaDB & SQL <br>
 👉 Frameworks (Laravel & Codeigniter) <br>
@@ -72,15 +72,15 @@ Experienced Software Engineer & Architect | Senior PHP Web Engineer | Admin & ER
 👉 Database Normalization, Indexing, and Query Optimization <br>
 👉 CSRF Protection, Encryption, Error Handling, 301-page redirects using .htaccess. 
 
-#### I am familiar with integrating<br>
+### I am familiar with integrating<br>
 👉 RESTful APIs, APIs For Mobile Application <br>
 👉 3rd Party APIs or Software into Websites
 
-#### Programming Techniques <br>
+### Programming Techniques <br>
 👉 Object-Oriented Programming (OOP) <br>
 👉 Agile Software Development Lifecycle
 
-#### Tools <br>
+### Tools <br>
 ✔️ GIT Version Control <br>
 ✔️ Push, Pull, Merge Data on Different Branches of Github. <br>
 ✔️PHPStorm integration with Git Beanstalkapp <br>
@@ -89,5 +89,5 @@ Experienced Software Engineer & Architect | Senior PHP Web Engineer | Admin & ER
 ✔️ Linux, Ubuntu <br>
 ✔️ Adobe Photoshop
 
-#### Related Job Titles<br>
+### Related Job Titles<br>
 PHP Developer, Web Developer, Software Developer, PHP Programmer, PHP Coder, PHP Back-end Expert, School System Expert.
