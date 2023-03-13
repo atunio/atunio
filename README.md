@@ -13,15 +13,9 @@ Hello, my name is Aftab Tunio and I am a Senior PHP Web Engineer with 10 years o
 [Upwork Profile Link](https://www.upwork.com/freelancers/atunio) <br>
 [LinkedIn Profile Link](https://www.linkedin.com/in/aftabtunio)
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=0000000&machine=premiumLinux&devcontainer_path=.devcontainer%2Fdevcontainer.json&location=WestUs2) 
-[![GitHub stars](https://img.shields.io/github/stars/atunio/SchoolSystemWithVuexyTheme.svg?style=social)](https://github.com/atunio/SchoolSystemWithVuexyTheme) 
-[![GitHub forks](https://img.shields.io/github/forks/atunio/SchoolSystemWithVuexyTheme.svg?style=social)](https://github.com/atunio/SchoolSystemWithVuexyTheme) 
-[![codecov](https://codecov.io/gh/atunio/SchoolSystemWithVuexyTheme/branch/master/graph/badge.svg)](https://codecov.io/gh/atunio/SchoolSystemWithVuexyTheme) 
-[![GitHub issues](https://img.shields.io/github/issues/atunio/SchoolSystemWithVuexyTheme.svg)](https://github.com/atunio/SchoolSystemWithVuexyTheme/issues) 
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/atunio/SchoolSystemWithVuexyTheme.svg)](https://github.com/atunio/SchoolSystemWithVuexyTheme/pulls) 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=0000000&machine=premiumLinux&devcontainer_path=.devcontainer%2Fdevcontainer.json&location=WestUs2) &nbsp;
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
  
-
 
 I have been developing custom web applications for many years. I am specially familiar with Admin System, CRM, ERP and Management Information System (MIS). The main task is to simplify the businesses and save efforts and time.
 
