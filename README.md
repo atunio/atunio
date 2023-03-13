@@ -1,14 +1,17 @@
 ## Senior PHP Web Engineer | 10 years of extensive experience in Core/Custom PHP, Laravel & MySQL 👋
 Hello, my name is Aftab Tunio and I am a Senior PHP Web Engineer with 10 years of experience in custom web application & system development. I specialize in creating user-friendly and customized web solutions for clients across different industries. In this overview, I will highlight my expertise, skills, and achievements
 
- - [10 years of experience in custom web application & system development.](#10-years)
- - [Skills include HTML, CSS, JavaScript, PHP, MySQL, and more.](#skills)
- - [Expertise in Laravel, Codeigniter, and AWS.](#frameworks)
- - [Specialized in Admin System, CRM, ERP, and MIS development.](#systems-erps)
- - [Developed high-quality and customized web solutions for clients worldwide.](#quality)
- - [Capable of managing the entire development process from design to deployment.](#capable)
- - [100% client satisfaction with a 100% job success score and 5-star ratings in all projects.](#satisfaction)
- - [Top-rated Upwork freelancer with 46+ successful job completions.](#toprated) 
+ - 10 years of experience in custom web application & system development.
+ - Skills include HTML, CSS, JavaScript, PHP, MySQL, and more.
+ - Expertise in Laravel, Codeigniter, and AWS.
+ - Specialized in Admin System, CRM, ERP, and MIS development.
+ - Developed high-quality and customized web solutions for clients worldwide.]
+ - Capable of managing the entire development process from design to deployment.
+ - 100% client satisfaction.
+ - Top-rated Upwork freelancer.
+
+[Upwork Profile Link](https://www.upwork.com/freelancers/atunio)
+[LinkedIn Profile Link](https://www.linkedin.com/in/aftabtunio)
 
 I have been developing custom web applications for many years. I am specially familiar with Admin System, CRM, ERP and Management Information System (MIS). The main task is to simplify the businesses and save efforts and time.
 
@@ -32,10 +35,10 @@ From past 10 years I've worked with a variety of clients across different indust
 ✅ Custom dashboards <br>
 ✅ Complex reports 
   
- - [My goal is to develop user-friendly and centralized systems that manage all at one place and save your time, efforts, and cost..](#goals)
- - [I have already developed hundreds of successful systems for clients worldwide and I know the current best web programming practices..](#developed)
- - [I want to help you to build your project with high quality, focused on details, and exceed your expectations..](#how-to-build)
- - [Client satisfaction with great quality is my highest priority and I always strive to exceed expectations..](#satisfaction2) 
+ - My goal is to develop user-friendly and centralized systems that manage all at one place and save your time, efforts, and cost..
+ - I have already developed hundreds of successful systems for clients worldwide and I know the current best web programming practices..
+ - I want to help you to build your project with high quality, focused on details, and exceed your expectations..
+ - Client satisfaction with great quality is my highest priority and I always strive to exceed expectations..
 
 🥇 Top Rated Upwork Freelancer <br>
 💯 100 % Job Success Score <br>
@@ -50,7 +53,7 @@ From past 10 years I've worked with a variety of clients across different indust
 
 Experienced Software Engineer & Architect | Senior PHP Web Engineer | Admin & ERP System Specialist with 10 years of extensive experience, developed successful large-scale corporate web applications & web solutions from scratch. Result Oriented, Best Practices. Expert in Custom / Core PHP, MySQL, RESTful APIs, Admin System, ERP Systems. Back-end PHP programming specialist.
 
-#### The areas of my technological expertise include: <br>
+## The areas of my technological expertise include: <br>
 👉 PHP5, PHP7, PHP8 (Core & OOP) <br>
 👉 MYSQL, MariaDB & SQL <br>
 👉 Frameworks (Laravel & Codeigniter) <br>
