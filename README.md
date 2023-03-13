@@ -10,9 +10,9 @@ Hello, my name is Aftab Tunio and I am a Senior PHP Web Engineer with 10 years o
  - 100% client satisfaction.
  - Top-rated Upwork freelancer.
 
-[Upwork Profile Link](https://www.upwork.com/freelancers/atunio) <br>
-[LinkedIn Profile Link](https://www.linkedin.com/in/aftabtunio)
-
+<!-- Upwork -->
+<a href="https://www.upwork.com/freelancers/atunio"><img src="https://img.shields.io/badge/-Upwork-14a800?style=for-the-badge&logo=Upwork&logoColor=white"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/aftabtunio"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp;
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=0000000&machine=premiumLinux&devcontainer_path=.devcontainer%2Fdevcontainer.json&location=WestUs2) &nbsp;
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
  
