@@ -13,6 +13,9 @@ Hello, my name is Aftab Tunio and I am a Senior PHP Web Engineer with 10 years o
 [Upwork Profile Link](https://www.upwork.com/freelancers/atunio) <br>
 [LinkedIn Profile Link](https://www.linkedin.com/in/aftabtunio)
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=0000000&machine=premiumLinux&devcontainer_path=.devcontainer%2Fdevcontainer.json&location=WestUs2)
+
+
 I have been developing custom web applications for many years. I am specially familiar with Admin System, CRM, ERP and Management Information System (MIS). The main task is to simplify the businesses and save efforts and time.
 
 Do you want to manage your business? with an Attractive Dashboard, Multiple Users, Multiple Location and Detailed Reports?
