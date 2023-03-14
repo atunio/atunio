@@ -136,7 +136,6 @@ A complete automation-ready customizable SaaS-Based School Management Informatio
 ### (3) Clinic Management System
 Web application that is designed to help healthcare providers manage patient data, appointments, medical records, billing, and other administrative tasks. It can help clinics streamline their operations, improve patient care, and increase revenue.
 
-- If you are planning to add a CMS project on Github, here are some content areas that you can focus on:
 - User authentication and authorization: A secure login system that verifies the identity of users and grants them access to specific features based on their roles.
 - Patient management: A module to store patient demographic information, medical history, treatment plans, and clinical notes.
 - Appointment scheduling: A calendar-based system that allows patients to book appointments online or by phone, and notifies healthcare providers about upcoming appointments.
