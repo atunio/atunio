@@ -48,20 +48,47 @@ A cloud-based solution supporting single/multiple schools with modules for admis
 - Separate dashboards for student, parent, teacher, and admin
 - Built-in website for each school on subdomain
 
-### 2. POS for Pharmacy & Grocery
+### 2. **Tibi Salulat – Unique Medical Advisory Platform**  
+An innovative medical platform that connects patients with verified doctors and offers curated medical content in Urdu and English. Built with a focus on **trust, accessibility, and user-friendly interaction** for patients across Pakistan.
+
+- Doctor registration, verification, and profile management  
+- CMS for publishing health-related blogs and videos  
+- Search and filter doctors by specialty and location  
+- Responsive design and optimized for low-bandwidth users  
+- Secure login, admin panel, and appointment tracking features
+  
+### 3. POS for Pharmacy & Grocery
 Complete inventory and sales management system integrated with barcode scanning, multi-payment options, daily reports, and low-stock alerts.
 
 - Fast billing, stock tracking, reordering automation
 - Payment gateway integration and sales analytics
 - Barcode scanner integration and visual dashboards
 
-### 3. Clinic Management System
+### 4. Clinic Management System
 Web-based EHR system for small and medium clinics with role-based access, appointment scheduling, medical history tracking, billing, and reporting.
 
 - Patient records, prescriptions, visit logs
 - Real-time appointment scheduling system
 - Invoicing and financial reporting dashboard
 - Secure login and messaging between staff and doctors
+
+### 5. KhwabGhar – Real Estate Property Dealing Website  
+A subscription-based real estate portal built for agents to list and manage properties efficiently. Ideal for agencies and freelance agents looking to showcase listings professionally.
+
+- Agent registration with subscription-based access  
+- Property listings with photos, videos, maps, and features  
+- User inquiries and lead management  
+- Admin panel for managing agents, payments, and approvals  
+- SEO-friendly URLs and responsive mobile-first design  
+
+### 6. JustaSale – Sales Promotion Website  
+A promotional platform that empowers small brands and businesses to showcase limited-time offers through affordable subscription plans. Designed for rapid publishing and social media sharing.
+
+- Brand registration and tiered subscription models  
+- Offer creation with countdown timers, discount tags, and QR codes  
+- Landing pages for each deal with shareable links  
+- Admin control panel for approving deals and managing subscriptions  
+- Mobile-optimized design and basic analytics dashboard
 
 ---
 
