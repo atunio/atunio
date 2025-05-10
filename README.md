@@ -1,6 +1,6 @@
 # 💻 Aftab Tunio — Senior PHP Web Engineer | Full-Stack Developer | SaaS System Architect
 
-Hi, I'm **Aftab Tunio**, a **Senior Web Engineer** with over **11+ years of hands-on experience** in designing and developing robust, scalable, and secure custom web applications. I specialize in **Core PHP**, **Laravel**, and modern web technologies to build solutions for startups, enterprises, and digital transformation projects. My focus is on building **modular systems**, **automating workflows**, and **simplifying business operations** through intelligent digital tools.
+Hi, I'm **Aftab Ahmed Tunio**, a **Senior Software Engineer**, **Team Lead** & **Tech Leader** with over **11+ years of hands-on experience** in designing and developing robust, scalable, and secure custom solution applications. I specialize in **Core PHP**, **Laravel**, and modern web technologies to build solutions for startups, enterprises, and digital transformation projects. My focus is on building **modular systems**, **automating workflows**, and **simplifying business operations** through intelligent digital tools.
 
 ---
 
